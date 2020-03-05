@@ -1,0 +1,10 @@
+{
+  "json":"application\/json",
+  "pdf":"application\/pdf",
+  "txt":"text\/plain",
+  "xml":"application\/xml",
+  "png":"image\/png",
+  "jpg":"image\/jpeg",
+  "zip":"application\/zip",
+  "rar":"application\/x-rar-compressed"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "autoblogpro/contenttype",
+    "description": "Content Type Header",
+    "keywords": ["autoblogpro","content type"],
+    "homepage": "https://autoblog.pro",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoyon Sugiono",
+            "email": "berbagipeluang@gmail.com",
+            "homepage": "https://yoyonsugiono.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"AutoblogPro\\": "src/"}
+    },
+    "require": {}
+}

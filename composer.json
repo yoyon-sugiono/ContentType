@@ -12,5 +12,7 @@
             "homepage": "https://yoyonsugiono.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": { "autoblogpro/contenttype" : "dev-master" },
+    "minimum-stability": "dev"
 }

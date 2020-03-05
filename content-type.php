@@ -19,10 +19,6 @@ class ContentType {
     ];
   }
   
-  public function __destruct(){
-    unset(self::$content_types);
-  }
-  
   public function display($type, $content){
     if(! isset(self::$content_types[$type])):
       die('Invalid content type');      

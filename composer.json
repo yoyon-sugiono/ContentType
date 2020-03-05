@@ -13,6 +13,5 @@
             "role": "Developer"
         }
     ],
-    "require": { "autoblogpro/contenttype" : "dev-master" },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev-master"
 }
